@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivangi-Gupta01
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning machine learning.
+- 🌱 
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
